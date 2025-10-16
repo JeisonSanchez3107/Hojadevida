@@ -1,14 +1,19 @@
 const Educacion = () => {
     const formacionAcademica = [
       {
-        year: "2023",
+        year: "2012 - 2018",
+        titulo: "Basica Primaria",
+        institucion: "Institución Educativa Santa Rosa De Lima - Suarez-Tolima"
+      },
+      {
+        year: "2018 - 2022",
         titulo: "Basica Secundaria",
         institucion: "Institución Educativa Santa Rosa De Lima - Suarez-Tolima"
       },
       {
-        year: "2017",
-        titulo: "Basica Primaria",	
-        institucionn: "Institución Educativa Santa Rosa De Lima - Suarez-Tolima"
+        year: "2024 - Actualmente",
+        titulo: "Tecnologo en Analisis y Desarrollo de Software",
+        institucion: "Sena Centro de Industria y Construcción - Ibagué"
       },
     ];
   

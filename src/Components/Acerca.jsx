@@ -8,8 +8,7 @@ const About = () => {
         </p>
         <p>
           Me gusta aprender cosas nuevas, me gusta la tecnología, me gusta el desarrollo de software, 
-          me gusta la investigación y el aprendizaje continuo. Tengo habilidades para el manejo de 
-          bases de datos, desarrollo de software y gestión de proyectos informáticos.
+          me gusta la investigación y el aprendizaje continuo. Tengo experiencia en el desarrollo de software, Manejando Varias tecnologías como HTML, CSS, JavaScript, React, Node.js, entre otras.
         </p>
       </section>
     );

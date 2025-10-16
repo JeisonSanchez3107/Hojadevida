@@ -4,7 +4,7 @@ import Acerca from './Components/Acerca.jsx';
 import Experiencia from './Components/Experiencia.jsx';
 import Educacion from './Components/Educacion.jsx';
 import Habilidades from './Components/Habilidades.jsx';
-import Referencias from './Components/Referencias.jsx';
+
 
 function App() {
   return (
@@ -15,7 +15,6 @@ function App() {
         <Experiencia />
         <Educacion />
         <Habilidades />
-        <Referencias />
       </main>
     </div>
   )
